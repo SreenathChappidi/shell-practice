@@ -6,4 +6,4 @@ PERSON2=$2
 echo "$PERSON1:: Welcome to Alkaska $PERSON2"
 echo "$PERSON2:: Thank you $PERSON1, finally not on zoom webinar"
 echo "$PERSON1:: So, do you have a deal"
-echo "Putin:: Yes, if you make Ukraine joins Russia"
+echo "$PERSON2:: Yes, if you make Ukraine joins Russia"
